@@ -98,10 +98,10 @@ Inline code is surrounded by backticks.
 #### Block Code
 
 Block code is indented by four spaces or one tab.
-
+```bash
 def hello_world():
     print("Hello, World!")
-
+```
 ### Horizontal Rule
 
 Horizontal rules are created using three or more asterisks, dashes, or underscores.
@@ -125,9 +125,10 @@ Tables are created using pipes and hyphens.
 
 Code blocks can be syntax-highlighted by specifying the language after the opening triple backticks.
 
+```python
 def hello_world():
     print("Hello, World!")
-
+```
 ### Footnotes
 
 Footnotes are created using a caret and a number.
